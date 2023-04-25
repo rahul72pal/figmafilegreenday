@@ -1,0 +1,47 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.greenday{
+    font-family: 'Lora';
+font-style: normal;
+font-weight: 400;
+font-size: 38px;
+line-height: 49px;
+
+color: #000000;
+}
+
+.navicon{
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+}
+
+.symbols{
+    background: rgba(120, 114, 114, 0.73);
+}
+.homepara{
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 27px;
+
+color: rgba(120, 114, 114, 0.88);
+}
+.heading{
+    font-family: 'Lora';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+font: bold;
+line-height: 62px;
+
+color: #110A0A;
+}
